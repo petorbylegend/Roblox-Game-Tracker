@@ -11,7 +11,7 @@ Before you host the bot you need to get your webhook links ready
 ## Step 2: create a github repository
 you need to create a github rerepository for your hosting site
 1. download "maintracker.py" and "requirements"
-2. change the place id the the "maintracker.py" file to whatever game that your trying to track
+2. change the place id of the "maintracker.py" file to whatever game that your trying to track
 3. create a github account if you dont have one
 4. click on your profile picture then click repositories
 5. click on the green "new" button
